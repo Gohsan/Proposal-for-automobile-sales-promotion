@@ -13,4 +13,14 @@
 <img src="images/image4.png">
 
 ### 最後に自然言語処理の共起ネットワークでツイッター・他のSNS・Webニュースから投稿を分析
+    これを何回か繰り返す
 <img src="images/image5.png">
+
+### 分析から導き出された特徴をサマライズする
+<img src="images/image6.png">
+
+### 戦略の提案
+<img src="images/image7.png">
+
+### 分析から導き出された特徴をサマライズする
+<img src="images/image8.png">
