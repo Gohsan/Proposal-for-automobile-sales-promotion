@@ -1,5 +1,5 @@
 # Proposal-for-automobile-sales-promotion
-統計手法と機械学習を用いた自動車 メーカーの自動車販売促進とシェアリングビジネス拡大の提案
+### 統計手法と機械学習を用いた自動車 メーカーの自動車販売促進とシェアリングビジネス拡大の提案
 
 <img src="images/image1.png">
 
@@ -23,4 +23,14 @@
 <img src="images/image7.png">
 
 ### シェアリング市場に関しては、共起ネットワーク分析のみを行った
+　　ここでも共起ネットワークによる分析を何回か繰り返す
 <img src="images/image8.png">
+
+### 分析から導き出された特徴をサマライズする
+<img src="images/image9.png">
+
+### 戦略の提案
+<img src="images/image10.png">
+
+### 自動車市場将来モデル
+<img src="images/image11.png">
