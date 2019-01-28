@@ -3,7 +3,7 @@
 
 <img src="images/image1.png">
 
-### 概要
+### 分析方法概要
 <img src="images/image2.png">
 
 ### 23区と郊外の自動車保有台数の差に対してT検定をおこなう
@@ -32,5 +32,5 @@
 ### 戦略の提案
 <img src="images/image10.png">
 
-### 自動車市場将来モデル
+### 自動車市場のトレンドと将来モデル
 <img src="images/image11.png">
