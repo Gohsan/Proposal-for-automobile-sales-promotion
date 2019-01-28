@@ -3,7 +3,7 @@
 
 <img src="images/image1.png">
 
-### 概要
-<img src="images/image2.png">  
-#### 23区と郊外の自動車保有台数の差に対してT検定をおこなう
+## 概要
+<img src="images/image2.png">
+### 23区と郊外の自動車保有台数の差に対してT検定をおこなう
 <img src="images/image3.png">
