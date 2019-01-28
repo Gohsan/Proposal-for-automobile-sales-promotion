@@ -13,4 +13,4 @@
 <img src="images/image4.png">
 
 ### 最後に自然言語処理の共起ネットワークでツイッター・他のSNS・Webニュースから投稿を分析
-<img src="images/image.png">
+<img src="images/image5.png">
